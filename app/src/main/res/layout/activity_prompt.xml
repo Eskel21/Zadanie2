@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity='center'
+    android:orientation="vertical"
+    tools:context=".PromptActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/podpowiedz_potwierdz"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/przycisk_odpowiedz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/przycisk_potwierdz" />
+
+    <TextView
+        android:id="@+id/answer_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:padding="30dp"
+        tools:text="Odpowiedź" />
+
+    <Button
+        android:id="@+id/przycisk_powrot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/przycisk_powrot_do_pytania" />
+</LinearLayout>

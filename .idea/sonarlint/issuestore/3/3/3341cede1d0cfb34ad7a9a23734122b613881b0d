@@ -1,0 +1,10 @@
+
+J
+java:S1604&"(Make this anonymous inner class a lambda(íãÛÄÿÿÿÿÿ8‚ãğñ²1
+J
+java:S1604/"(Make this anonymous inner class a lambda(ÔØí÷şÿÿÿÿ8Á¼öñ²1
+	java:S116"dRename this field "pokaz_podpowiedz_przycisk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŞ×8“ãğñ²1
+„
+java:S1450"hRemove the "pokaz_podpowiedz_przycisk" field and declare it as a local variable in the relevant methods.(ÙŞ×8˜ãğñ²1
+r
+java:S1450"URemove the "powrot" field and declare it as a local variable in the relevant methods.(Û³à†8¹Ñò²1

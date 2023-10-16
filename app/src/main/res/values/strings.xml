@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="przycisk_prawda">Prawda</string>
+    <string name="przycisk_falsz">Fałsz</string>
+    <string name="przycisk_następny">Następne</string>
+    <string name="q_filary_ziemi">Autorem powieści "Filary Ziemi" jest Ken Follet</string>
+    <string name="q_sherlock_holmes">Towarzyszem detektywa znanego z powieści sir Arthura Conana Doylea jest doktor John Lestrade</string>
+    <string name="q_lotr">Książkowe wydanie "Władcy Pierścieni" zostało podzielone na 3 księgi</string>
+    <string name="q_dewajtis">W powieści "Dewajtis" Marii Rodziewiczówny po śmierci Pawła Czertwana, Poświciem zarządza jego syn Marek Czertwan</string>
+    <string name="q_Hobbit">Tytułowy bohater z powieści J.R.R. Tolkiena pt."Hobbit, czyli tam i z powrotem" ma na imię Frodo Baggins</string>
+    <string name="q_Harry_Potter">Rodzice Hermiony Granger z serii książek o Harrym Potterze autorstwa J.K. Rowling z zawodu byli dentystami</string>
+    <string name="q_trylogia_husycka">Druga część trylogii husyckiej pióra Andrzeja Sapkowskiego to jedyna część która nie ma tytułu w języku łacińskim</string>
+    <string name="q_hercules_poirot">Detektyw z charakterystycznym wąsem z książek Agaty Christie nazywa się Hercules Poirot</string>
+    <string name="q_cien_i_kosc">Trylogia grisza Leigha Bardugo nie została jeszcze zekranizowana</string>
+    <string name="q_metro">Główny bohater serii "Metro" Dmitra Glukhovskyego ma na imię Sasza</string>
+    <string name="correct_answer">Prawidłowa odpowiedź!</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedź!</string>
+    <string name="przycisk_restart">Rozwiąż test ponownie</string>
+    <string name="podpowiedz_potwierdz">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="przycisk_potwierdz">Pokaż odpowiedź</string>
+    <string name="clue">Podpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
+    <string name="przycisk_powrot_do_pytania">Powrót do pytania</string>
+</resources>

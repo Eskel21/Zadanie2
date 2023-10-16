@@ -1,0 +1,17 @@
+
+j
+java:S1192"MDefine a constant instead of duplicating this literal "MainActivity" 7 times.(¼ŸÆ‡8§·ßñ²1
+E
+java:S1604c"(Make this anonymous inner class a lambda(ÜÊíà8¨·ßñ²1
+E
+java:S1604i"(Make this anonymous inner class a lambda(µÚÉç8¨·ßñ²1
+E
+java:S1604w"(Make this anonymous inner class a lambda(³ç¼ó8¨·ßñ²1
+K
+java:S1604ƒ"(Make this anonymous inner class a lambda(¸«£«ÿÿÿÿÿ8¨·ßñ²1
+Q
+java:S1611o"/Remove the parentheses around the "v" parameter(ãÑ­Ëøÿÿÿÿ8è·ßñ²1
+[
+java:S1874t">Remove this use of "startActivityForResult"; it is deprecated.(îü‰”8ì·ßñ²1
+g
+java:S1874³"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8ñ·ßñ²1
